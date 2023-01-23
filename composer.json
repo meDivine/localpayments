@@ -6,13 +6,13 @@
     "license": "MIT",
     "require": {
         "php": "^8.0.2",
+        "destyk/umoney-quickpay-php": "^1.0",
         "guzzlehttp/guzzle": "^7.2",
         "laravel/framework": "^9.19",
         "laravel/horizon": "^5.13",
         "laravel/sanctum": "^3.0",
         "laravel/telescope": "^4.12",
         "laravel/tinker": "^2.7",
-        "lee-to/moonshine": "^1.24",
         "livewire/livewire": "^2.11",
         "qiwi/bill-payments-php-sdk": "^0.2.2"
     },
